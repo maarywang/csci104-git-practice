@@ -8,5 +8,5 @@
 #include "hello_world.hpp"
 int main()
 {
-    std::cout << "Hello, world!" <, std::endl;
+    std::cout << "Fight On!" <, std::endl;
 }
